@@ -12,6 +12,9 @@
 ## Usefull links
 - [GitHub List: Awesome Pascal](https://github.com/Fr0sT-Brutal/awesome-pascal)
 
+## Current read
+- [An interactive journey into functional programming with Yehonathan Sharvit](https://blog.klipse.tech/)
+
 <!--
 **jseling/jseling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
