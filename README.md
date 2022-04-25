@@ -7,9 +7,9 @@ https://jseling.github.io/
 ## Interests
 - [Graphic programming](https://github.com/jseling/ComputerGraphicsKnowledge), mainly with [OpenGL](https://github.com/jseling/LearnOpenGL).
 - Web programming ([frontend](https://github.com/jseling/FrontEndKnowledge), [backend](https://github.com/jseling/BackendKnowledge)), [javascript, React, NodeJS](https://github.com/jseling/semanaomnistack11)...
-- Studying C# and C++, soon Python too. 
+- Studying C# and C++, soon Clojure may be. 
 - Experience since 2012 with [Pascal](https://github.com/jseling/DelphiPascalKnowledge), programming with Delphi professionally.
-- Game programming, I started studying [Godot](https://github.com/jseling/godot_learning), want to study Unity too.
+- Game programming, I started studying Unity, want to study [Godot](https://github.com/jseling/godot_learning) too.
 - [General programming study](https://github.com/jseling/ProgKnowledge).
 
 ## Daily checks
