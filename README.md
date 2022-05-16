@@ -2,6 +2,8 @@
 
 I'm from Brazil.
 
+Currently: Studying Unity...
+
 https://jseling.github.io/
 
 ## Interests
