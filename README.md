@@ -26,9 +26,6 @@ https://jseling.github.io/
 ## Usefull links
 - [PDF Tools](https://tools.pdf24.org/pt/)
 
-## Current work
-- [Learning OpenGL](https://github.com/jseling/LearnOpenGL)
-
 <!--
 **jseling/jseling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
