@@ -10,8 +10,8 @@ https://jseling.github.io/
 - [Graphic programming](https://github.com/jseling/ComputerGraphicsKnowledge), mainly [OpenGL](https://github.com/jseling/LearnOpenGL).
 - Web programming ([frontend](https://github.com/jseling/FrontEndKnowledge), [backend](https://github.com/jseling/BackendKnowledge)), [javascript, React, NodeJS](https://github.com/jseling/semanaomnistack11)...
 - Studying C# and C++, soon Clojure may be. 
-- Experience since 2012 with [Pascal](https://github.com/jseling/DelphiPascalKnowledge), programming with Delphi professionally.
-- Game programming, I started studying Unity, want to study [Godot](https://github.com/jseling/godot_learning) too.
+- Experience since 2012 with [Pascal](https://github.com/jseling/DelphiPascalKnowledge), programming with Delphi.
+- Game programming, I started studying Unity, but studied a bit of [Godot](https://github.com/jseling/godot_learning) too.
 - [General programming study](https://github.com/jseling/ProgKnowledge).
 
 ## Daily checks
